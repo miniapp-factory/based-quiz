@@ -30,6 +30,10 @@ const pages = [
     ),
     href: "/",
   },
+  {
+    label: <span className="text-xl">Quiz</span>,
+    href: "/quiz",
+  },
 ];
 
 export function Header() {
