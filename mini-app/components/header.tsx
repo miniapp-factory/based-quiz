@@ -31,7 +31,7 @@ const pages = [
     href: "/",
   },
   {
-    label: <span className="text-xl">Quiz</span>,
+    label: <span className="text-xl">Based Quiz</span>,
     href: "/quiz",
   },
 ];
